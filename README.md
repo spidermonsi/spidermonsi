@@ -6,20 +6,19 @@
 
 ## 🚀 What I'm up to
 
-- 🎓 **Thesis (defended):** a VGG19-based model that detects human-tampered and AI-generated GCash and Maya receipts. I'm still working on improvements and revisions.
-- 🤖 **Careerbot Chatbot:** the model is done. I'm building the web app and deploying it.
+- 🎓 **Thesis (defended):** a VGG19-based model that detects human-tampered and AI-generated GCash and Maya receipts. I'm still working on improvements and revisions. After that, I plan on making a web app for it and deploying it live.
 - 💼 **Looking for:** software developer internship opportunities
 
 ## 🛠️ Projects
 
-**NU-L eRegistrar**  
-A full-stack registrar system. I served as Project Lead, and it's deployed live.  
-
-**Receipt Authenticity Detection (Thesis)**  
-A three-class classifier that labels receipts as authentic, human-tampered, or AI-generated.  
-
-**Careerbot Chatbot (in progress)**  
-A chatbot with its own web app, currently being deployed.  
+| Project | Description | Role | Stack |
+|---|---|---|---|
+| **Authenticity Detection of Digital Receipts** (Thesis) | VGG19 model that classifies GCash and Maya receipts as authentic, human-tampered, or AI-generated, with 94% test accuracy on a 3,000-image dataset. | Lead Researcher & Developer | Python, TensorFlow, Keras, VGG19 |
+| **NU Laguna e-Registrar System** | Online document request and tracking system with payment integration and AI-generated email notifications. Deployed live. | Team Leader & Lead Developer | React, Node.js, Express.js, MongoDB, PayMongo |
+| **CareerBot Chatbot** (in progress) | NLP career guidance chatbot for CS students, with embedding-based intent detection and a full-stack chat web app. | Lead Developer | Python, FastAPI, Next.js, MongoDB |
+| **AI Image Classifier** | Classifies any uploaded image with MobileNetV2 (pretrained on ImageNet) and returns the top 3 predicted labels with confidence scores. | Personal Project | Python, Streamlit, TensorFlow/Keras, Pillow, NumPy, uv |
+| **Academe-Industry Linkages & Placement Office System** | Web-based partnership management system for tracking and managing academe-industry linkages. | Backend Developer | PHP, MySQL, HTML, CSS |
+| **NU Exchange E-Commerce Website** | Full-stack e-commerce platform for NU uniforms and merchandise, built for an Information Management class. | Backend Developer | PHP, MySQL, HTML, CSS |  
 
 
 ## 🌐 Socials:
